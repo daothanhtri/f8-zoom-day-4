@@ -14,6 +14,7 @@ h1 {
 ul {
   width: 50%;
   margin: auto;
+  padding-left: 200px;
   list-style-type: none;
   line-height: 80px;
   font-size: 48px;
@@ -21,4 +22,5 @@ ul {
 
 a {
   text-decoration: none;
+  font-weight: 500;
 }
